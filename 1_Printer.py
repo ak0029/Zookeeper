@@ -3,7 +3,7 @@
  Your program must show the text from the output example
 """
 
-print("I do love animals!")
+print("I do love animals!")   # print command
 print("Start looking after animals")
 print("Deer looks fine")
 print("Bat looks happy")
