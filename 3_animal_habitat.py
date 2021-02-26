@@ -119,7 +119,7 @@ Switching on camera from habitat with rabbits...
 (" ~----( ~   Y.  )
 It seems there will be more rabbits soon!"""
 
-habitat = [camel,lion,deer,goose,bat,rabbit]
+habitat = [camel,lion,deer,goose,bat,rabbit]    # list
 a= int(input(("Which habitat # do you need?")))  # write your code here
 print(habitat[a])
 print('''
