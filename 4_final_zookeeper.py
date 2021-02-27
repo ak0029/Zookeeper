@@ -120,7 +120,7 @@ Switching on camera from habitat with rabbits...
 It seems there will be more rabbits soon!"""
 
 
-animals = [camel, lion, deer, goose, bat, rabbit]
+animals = [camel, lion, deer, goose, bat, rabbit]   # List
 
 while True:
     user_key = (input('Which habitat # do you need? >'))
